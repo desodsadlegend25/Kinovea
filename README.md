@@ -225,4 +225,4 @@ Kinovea is a completely free software application, offering the full version wit
 Unlock your full athletic potential today! Download **Kinovea** for free and start analyzing your performance like never before!
 
 ---
-**Last updated:** 2026-10-28 21:28:26 UTC
+**Last updated:** 2026-10-29 01:26:49 UTC
